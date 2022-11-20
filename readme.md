@@ -9,5 +9,5 @@ realización de un notebook de Jupyter.
 
 ## Integrantes
 - Jorge Isur Balderas Ramírez (2183036000)
-- Aaron
+- Aaron Cane Sandoval (2193037902)
 - Jorge Emmanuel
