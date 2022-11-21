@@ -19,3 +19,13 @@ Jorge Isur Balderas Ramírez
 - Frecuencia de una función
 - Señales compuestas
 - Importancia de las señales compuestas (Modulación AM)
+
+
+## Aportación
+Aaron Cane Sandoval
+- Amplitud
+- Fase
+- Longitud de Onda
+- Ancho de banda
+- Transformada de Fourier
+- Espectro de la frecuencia 
