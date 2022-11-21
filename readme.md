@@ -11,3 +11,11 @@ realización de un notebook de Jupyter.
 - Jorge Isur Balderas Ramírez (2183036000)
 - Aaron Cane Sandoval (2193037902)
 - Jorge Emmanuel
+## Aportación
+Jorge Isur Balderas Ramírez
+- Seno
+- Funciones periódicas
+- Periodo de una función
+- Frecuencia de una función
+- Señales compuestas
+- Importancia de las señales compuestas (Modulación AM)
